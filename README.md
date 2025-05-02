@@ -4,7 +4,8 @@ This repository contains the code (in `.zip` format) and final report for the **
 
 
 🗂️ **Source code included as ZIP archive**
-📄 **[Download the full report (PDF)](MPC_Project_Report.pdf)**  
+📄 [Download the full report (PDF)](./MPC_Project_Report.pdf)
+
 
 
 ---
