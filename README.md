@@ -7,6 +7,9 @@ This repository contains the code (in `.zip` format) and final report for the **
 📄 [Download the full report (PDF)](./MPC_Project_Report.pdf)
 
 
+If the Github Preview for the report does not work, please download the raw file to view it.
+
+
 
 ---
 
